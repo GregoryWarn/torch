@@ -2,6 +2,10 @@
 
 ## Middle Kingdom - v10 -> main branch
 
+### 3.3.0 - May 25, 2026 - Provided Polish translation
+- [FEATURE] Added Polish translation
+- [FEATURE] Added Swedish light sources for Dragonbane as aliases
+
 ### 3.2.0 - April 4, 2026 - Provided light sources for mothership
 - [FEATURE] Now contains Mothership (mosh) light sources
 - [BUGFIX] At least updated the documentation to warn about the outstanding bug limiting the number of states for a light source to no more than two. (Now, I have to fix it, right?)

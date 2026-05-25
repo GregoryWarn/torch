@@ -693,6 +693,12 @@ export default {
     "system": "dragonbane",
     "topology": "standard",
     "quantity": "quantity",
+    "aliases": {
+      "Stormlykta": "Lantern",
+      "Oljelampa": "Oil Lamp",
+      "Fackla": "Torch",
+      "Talgljus": "Tallow Candle",
+    },
     "sources": {
       "Lantern": {
         "name": "Lantern",
