@@ -1,6 +1,6 @@
 {
 	"I18N.LANGUAGE": "Italiano",
-	"I18N.MAINTAINERS": ["Lupestro"],
+	"I18N.MAINTAINERS": ["GregoryWarn - ClaPSG"],
 
 	"torch.settings.gameLightSources.name": "Fonti di luce aggiuntive",
 	"torch.settings.gameLightSources.hint": "File JSON contenente fonti di luce aggiuntive da utilizzare oltre a quelle fornite.",
